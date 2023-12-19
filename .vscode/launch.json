@@ -1,0 +1,32 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "TOTVS Language Debug",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "\\\\totvs-homologa\\TOTVS12\\Protheus_DEV\\Protheus\\bin\\smartclient\\smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"args": [],
+			"label": "u_teste"
+		},
+		{
+			"label": "u_MVCCAD"
+		},
+		{
+			"label": "u_Aula3011"
+		},
+		{
+			"label": "SIGAMDI"
+		}
+	],
+	"lastProgramExecuted": "<cancel>",
+	"lastProgramArguments": []
+}
