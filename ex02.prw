@@ -41,7 +41,7 @@ User Function Ex003(n1, n2, op, resultado)
         endif
     endif
 
-Return .T.
+Return fezConta
 
 Static Function Ex001A()
 
