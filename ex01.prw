@@ -5,6 +5,6 @@ User Function TMichel()
     //DBSelectArea("SZ0")
     //ChkFile("SZ0")
     U_Ex001(10)
-    U_Ex001(-10)
+    
 
 Return 
