@@ -12,7 +12,7 @@ User Function Ex001(numero)
     endif
 
      Ex001A()
-     
+
 Return
 
 User Function Ex002(numero)
@@ -27,6 +27,21 @@ User Function Ex002(numero)
     endif
 
 Return
+User Function Ex003(n1, n2, op, resultado)
+
+    Local fezConta := .F.
+    Default n1 := 0
+    Default n2 := 0
+    Default op := ""
+
+    if !empty(op)
+        if op == "Soma"
+        resultado := n1 + n2
+        fezConta := .T.
+        endif
+    endif
+
+Return .T.
 
 Static Function Ex001A()
 
