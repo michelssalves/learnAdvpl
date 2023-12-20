@@ -25,7 +25,16 @@
 		},
 		{
 			"label": "SIGAMDI"
+		},
+		{
+			"args": [],
+			"label": "u_Ex001"
+		},
+		{
+			"args": [],
+			"label": "u_TMichel"
 		}
 	],
-	"lastProgramExecuted": "SIGAMDI"
+	"lastProgramExecuted": "u_TMichel",
+	"lastProgramArguments": []
 }
