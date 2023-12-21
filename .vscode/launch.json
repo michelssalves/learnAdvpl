@@ -33,8 +33,11 @@
 		{
 			"args": [],
 			"label": "u_TMichel"
+		},
+		{
+			"args": [],
+			"label": "u_XMBROWSE"
 		}
 	],
-	"lastProgramExecuted": "u_TMichel",
-	"lastProgramArguments": []
+	"lastProgramExecuted": "SIGAMDI"
 }
