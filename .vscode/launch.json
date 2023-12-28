@@ -7,8 +7,8 @@
 			"name": "TOTVS Language Debug",
 			"program": "${command:AskForProgramName}",
 			"cwb": "${workspaceFolder}",
-			//"smartclientBin": "\\\\totvs-homologa\\TOTVS12\\Protheus_DEV\\Protheus\\bin\\smartclient\\smartclient.exe",
-			"smartclientBin": "E:\\smartclient\\smartclient.exe",
+			"smartclientBin": "\\\\totvs-homologa\\TOTVS12\\Protheus_DEV\\Protheus\\bin\\smartclient\\smartclient.exe",
+			//"smartclientBin": "E:\\smartclient\\smartclient.exe",
 			"isMultiSession": true,
 			"enableTableSync": true
 		}

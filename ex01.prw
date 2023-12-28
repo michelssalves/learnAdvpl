@@ -13,6 +13,6 @@ User Function TMichel()
     //     alert("Fez a conta, o valor de é: " + cValToChar(resultado) + ".")
     // endif
     //U_XMBROWSE()
-    u_teste()
-
+    //u_teste()
+    U_xModelo1()
 Return 
